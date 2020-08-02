@@ -1,3 +1,7 @@
 __some-text  
 changes to origin
 checned maded
+cherry-pick
+merge
+pit pull
+git gui
