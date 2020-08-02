@@ -1,7 +1,9 @@
-__some-text  
-changes to origin
+# create a branch and accessed
+git checkout [branch name]
+
+chasimplinges to origin
 checned maded
 cherry-pick
 merge
-pit pull
-git gui
+git pull
+git 
